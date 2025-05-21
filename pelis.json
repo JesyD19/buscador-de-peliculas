@@ -1,0 +1,162 @@
+[
+  {
+    "title": "El origen",
+    "rating": 8.8,
+    "tags": ["acción", "ciencia ficción", "favorita"]
+  },
+  {
+    "title": "El caballero de la noche",
+    "rating": 9.0,
+    "tags": ["acción", "superhéroes", "favorita"]
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.6,
+    "tags": ["ciencia ficción", "drama", "favorita"]
+  },
+  {
+    "title": "Matrix",
+    "rating": 8.7,
+    "tags": ["acción", "ciencia ficción", "clásico"]
+  },
+  {
+    "title": "El club de la pelea",
+    "rating": 8.8,
+    "tags": ["drama", "psicológico", "favorita"]
+  },
+  {
+    "title": "Forrest Gump",
+    "rating": 8.8,
+    "tags": ["drama", "romance", "clásico"]
+  },
+  {
+    "title": "Sueños de fuga",
+    "rating": 9.3,
+    "tags": ["drama", "clásico", "favorita"]
+  },
+  {
+    "title": "Tiempos violentos",
+    "rating": 8.9,
+    "tags": ["acción", "crimen", "clásico"]
+  },
+  {
+    "title": "El señor de los anillos: El retorno del rey",
+    "rating": 8.9,
+    "tags": ["fantasía", "aventura", "favorita"]
+  },
+  {
+    "title": "La red social",
+    "rating": 7.7,
+    "tags": ["biografía", "drama", "tecnología"]
+  },
+  {
+    "title": "Gladiador",
+    "rating": 8.5,
+    "tags": ["acción", "histórico", "favorita"]
+  },
+  {
+    "title": "El silencio de los inocentes",
+    "rating": 8.6,
+    "tags": ["thriller", "crimen", "clásico"]
+  },
+  {
+    "title": "Los Vengadores",
+    "rating": 8.0,
+    "tags": ["acción", "superhéroes", "favorita"]
+  },
+  {
+    "title": "Titanic",
+    "rating": 7.8,
+    "tags": ["romance", "drama", "clásico"]
+  },
+  {
+    "title": "Parque Jurásico",
+    "rating": 8.1,
+    "tags": ["acción", "aventura", "clásico"]
+  },
+  {
+    "title": "El rey león",
+    "rating": 8.5,
+    "tags": ["animación", "familia", "clásico"]
+  },
+  {
+    "title": "Avatar",
+    "rating": 7.8,
+    "tags": ["ciencia ficción", "aventura", "favorita"]
+  },
+  {
+    "title": "Los infiltrados",
+    "rating": 8.5,
+    "tags": ["crimen", "thriller", "favorita"]
+  },
+  {
+    "title": "Los sospechosos de siempre",
+    "rating": 8.5,
+    "tags": ["crimen", "thriller", "clásico"]
+  },
+  {
+    "title": "El prestigio",
+    "rating": 8.5,
+    "tags": ["drama", "misterio", "favorita"]
+  },
+  {
+    "title": "Intocable",
+    "rating": 8.5,
+    "tags": ["comedia", "drama", "favorita"]
+  },
+  {
+    "title": "El gran hotel Budapest",
+    "rating": 8.1,
+    "tags": ["comedia", "aventura", "favorita"]
+  },
+  {
+    "title": "La forma del agua",
+    "rating": 7.3,
+    "tags": ["fantasía", "romance", "favorita"]
+  },
+  {
+    "title": "Mad Max: Furia en el camino",
+    "rating": 8.1,
+    "tags": ["acción", "aventura", "favorita"]
+  },
+  {
+    "title": "Intensamente",
+    "rating": 8.1,
+    "tags": ["animación", "familia", "favorita"]
+  },
+  {
+    "title": "Coco",
+    "rating": 8.4,
+    "tags": ["animación", "familia", "favorita"]
+  },
+  {
+    "title": "Spider-Man: Un nuevo universo",
+    "rating": 8.4,
+    "tags": ["animación", "acción", "superhéroes"]
+  },
+  {
+    "title": "Zootopia",
+    "rating": 8.0,
+    "tags": ["animación", "familia", "favorita"]
+  },
+  {
+    "title": "La La Land",
+    "rating": 8.0,
+    "tags": ["musical", "romance", "favorita"]
+  },
+  {
+    "title": "Parásitos",
+    "rating": 8.6,
+    "tags": ["drama", "thriller", "favorita"]
+  },
+  {
+    "title": "Puñales por la espalda",
+    "rating": 7.9,
+    "tags": ["misterio", "comedia", "favorita"]
+  },
+  {
+    "title": "Soul",
+    "rating": 8.1,
+    "tags": ["animación", "familia", "favorita"]
+  }
+]

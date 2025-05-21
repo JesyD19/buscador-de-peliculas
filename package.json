@@ -1,0 +1,15 @@
+{
+  "name": "buscador-de-peliculas",
+  "version": "1.0.0",
+  "description": "Esta aplicación permite filtrar y ordenar una lista de películas desde la terminal usando Node.js. Se pueden buscar películas por título, filtrar por tags y ordenar por cualquier propiedad (como título, rating o tags).",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "Jesica Dominguez Alderete",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^6.3.0"
+  }
+}
