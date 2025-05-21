@@ -27,16 +27,16 @@ const givingResults = (obj) => {
     undefined: movies,
     "--sort":
       property === "title"
-        ? sortTitle(movies)
+        ? () => sortTitle(movies)
         : property === "rating"
-        ? sortRating(movies)
+        ? () => sortRating(movies)
         : property === "tags"
-        ? sortTag(movies)
+        ? () => sortTag(movies)
         : "Agregar una propiedad correcta",
-    "--search": searchWord(movies, property),
-    "--tag": tagMovie(movies, property),
+    "--search": () => searchWord(movies, property),
+    "--tag": () => tagMovie(movies, property),
   };
-  const executor = map[parameter];
+  const executor = map[parameter]();
   return executor;
 };
 
